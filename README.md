@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Study Lab: JEE preparation command center" width="100%">
+<img src="banner.png" alt="Study Lab: JEE preparation command center" width="100%">
 
 <br>
 
@@ -31,31 +31,31 @@ It runs entirely in the browser. There is no backend, no account, no framework a
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/today.png" alt="Today view with tasks and subtasks"><br>
+      <img src="today.png" alt="Today view with tasks and subtasks"><br>
       <sub><b>Today</b>: tasks, subtasks, subject tags and a daily progress ring</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/week.png" alt="Week view with timed blocks"><br>
+      <img src="week.png" alt="Week view with timed blocks"><br>
       <sub><b>Week</b>: timed blocks and all-day items across the week</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/timer.png" alt="Focus timer with Flow, Pomodoro and Custom modes"><br>
+      <img src="timer.png" alt="Focus timer with Flow, Pomodoro and Custom modes"><br>
       <sub><b>Focus</b>: Flow, Pomodoro and Custom timers with streak stats</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/syllabus.png" alt="Syllabus tracker with chapter progress"><br>
+      <img src="syllabus.png" alt="Syllabus tracker with chapter progress"><br>
       <sub><b>Syllabus</b>: every chapter tracked by status, lectures, DPPs and PYQs</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/mocks.png" alt="Mock test analytics dashboard"><br>
+      <img src="mocks.png" alt="Mock test analytics dashboard"><br>
       <sub><b>Mocks</b>: score trajectory, subject strength and test history</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/settings.png" alt="Settings with countdown and appearance options"><br>
+      <img src="settings.png" alt="Settings with countdown and appearance options"><br>
       <sub><b>Settings</b>: countdown, tag colors, backgrounds and backups</sub>
     </td>
   </tr>
@@ -130,7 +130,7 @@ jee-study-lab/
 ├── index.html     # Markup, favicon, and the Shadow DOM template with its styles
 ├── style.css      # Document-level styles
 ├── app.js         # All application logic
-├── assets/        # Banner and screenshots used in this README
+├── *.png          # Banner and screenshots used in this README
 └── README.md
 ```
 
