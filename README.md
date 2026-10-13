@@ -12,7 +12,7 @@
 
 **Plan the day. Focus deep. Track every chapter. Learn from every mock.**
 
-[Preview](#-preview) &nbsp;•&nbsp; [Features](#-features) &nbsp;•&nbsp; [Tech Stack](#-tech-stack) &nbsp;•&nbsp; [Getting Started](#-getting-started) &nbsp;•&nbsp; [Your Data](#-your-data--privacy)
+[Preview](#-preview) &nbsp;•&nbsp; [Share Cards](#-share-cards) &nbsp;•&nbsp; [Reality Check](#-reality-check--chart-insights) &nbsp;•&nbsp; [Features](#-features) &nbsp;•&nbsp; [Tech Stack](#-tech-stack) &nbsp;•&nbsp; [Getting Started](#-getting-started) &nbsp;•&nbsp; [Your Data](#-your-data--privacy)
 
 </div>
 
@@ -63,6 +63,43 @@ It runs entirely in the browser. There is no backend, no account, no framework a
 
 <br>
 
+## ✦ Share Cards
+
+Turn your progress into a card you can screenshot or export as a PNG. Every card flips: tap it to see the other side.
+
+<div align="center">
+  <img src="assets/cards.png" alt="Daily card and test card, front and back" width="100%">
+</div>
+
+<br>
+
+| Card | Front | Back |
+| :-- | :-- | :-- |
+| **Daily Card** | Your profile, rank badge, daily completion ring and today's tasks with subtasks. | Total focus time today, streak, tasks done, sessions, and hours per subject. |
+| **Test Card** | Mock name, score out of max, percentage ring, change vs last test, personal-best badge, subject marks and whether you hit your target. | Accuracy report with attempted, correct and wrong counts, global rank among your tests, all-time best and overall average. |
+
+- **Daily Card:** open it from the share button on the **Timer** page.
+- **Test Card:** open it from the share icon on any test in **Mocks → Test History**.
+- Strong results get a little celebration, such as a personal best or a hit target.
+- Daily cards export as a high-resolution **1080 × 1920 PNG**, sized for stories and status.
+
+<br>
+
+## ✦ Reality Check & Chart Insights
+
+<div align="center">
+  <img src="assets/details.png" alt="Reality Check popup and mock chart hover tooltip" width="100%">
+</div>
+
+<br>
+
+| Feature | What it shows |
+| :-- | :-- |
+| **Reality Check** | Click the countdown in the sidebar. See days remaining, a live `HH:MM:SS` clock to exam day, a one-tick-per-day ruler (taller ticks are Sundays), Sundays and sleeps left, and how many prep hours you lose if you waste 2 hours a day. Everything is calculated from your target date. |
+| **Chart Tooltip** | Hover any point on the **Performance Trajectory** chart. A card shows the test name, date and category, score out of max, change vs the previous test, marks per subject, accuracy, and how far you are from your target. |
+
+<br>
+
 ## ✦ Features
 
 ### 🗓️ Plan
@@ -81,7 +118,7 @@ It runs entirely in the browser. There is no backend, no account, no framework a
 | **Timer** | Three modes (**Flow**, **Pomodoro**, **Custom**) plus manual session logging. Pick a subject and link a task to every session. |
 | **Stats** | Study streak, focused time today, 7-day average and peak, and 30-day consistency. |
 | **Levels & Badges** | Seven ranks from **Novice** to **Ascended**, driven by your focused hours, plus a large set of achievement badges. |
-| **Share Card** | Export a PNG card of your day. The front shows your profile and today's tasks, the back shows subject-wise hours. |
+| **Daily Card** | A flip card of your day. The front shows your profile and today's tasks, the back shows subject-wise hours. Export it as a PNG. |
 
 ### 📚 Track
 
@@ -96,13 +133,14 @@ It runs entirely in the browser. There is no backend, no account, no framework a
 | Module | What it does |
 | :-- | :-- |
 | **Mocks** | Schedule tests, log marks per subject, and record attempted and correct counts for accuracy. |
-| **Insights** | Performance trajectory chart with a target line, subject strength, recent trend, best score and full test history. |
+| **Insights** | Performance trajectory chart with a target line and hover tooltips, subject strength, recent trend, best score and full test history. |
+| **Test Card** | A shareable card for every mock: score, trend vs last test, personal best, target status, plus an accuracy report with your rank among all tests. |
 
 ### ⚙️ Personalise
 
 | Setting | What it does |
 | :-- | :-- |
-| **Countdown** | Choose your target session (Jan or April), set the exact shift date, and add a photo, GIF or video banner. |
+| **Countdown** | Choose your target session (Jan or April), set the exact shift date, and add a photo, GIF or video banner. Click it anytime for a **Reality Check**. |
 | **Appearance** | Custom subject tag colors, built-in atmospheres (Aurora, Ember, Neon Grid, Midnight, Ink Waves), a custom image URL and adjustable background opacity. |
 | **Day Rollover** | Decide when your day ends (12 AM to 6 AM), so late-night study counts for the right day. |
 | **Backup** | Export all your data to a JSON file and import it back anywhere. |
