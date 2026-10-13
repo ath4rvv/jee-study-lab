@@ -317,7 +317,7 @@ jee-study-lab/
 
 <div align="center">
 
-Built with focus by **[@dev-atharv07](https://github.com/ath4rvv)**
+Built with focus by **[@ath4rvv](https://github.com/ath4rvv)**
 
 <sub>Made for aspirants who treat every day like a mock test. 🧡</sub>
 
