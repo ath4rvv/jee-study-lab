@@ -309,7 +309,7 @@ jee-study-lab/
 
 Nerd snipe alert 🤓. If you're wondering why I completely ghosted React and Tailwind, how the zero-drift local timer actually works, or why I shipped this entire command centre from pure vanilla scratch, I wrote a full deep dive on it:
 
-👉 [**Read the Engineering Breakdown**](https://ath4rvv.github.io/#writes/building-a-study-tracker-that-doesnt-actually-suck))
+👉 [**Read the Engineering Breakdown**](https://ath4rvv.github.io/#writes/building-a-study-tracker-that-doesnt-actually-suck)
 
 ## ✦ Acknowledgements
 
