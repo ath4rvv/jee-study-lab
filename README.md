@@ -315,7 +315,7 @@ Nerd snipe alert 🤓. If you're wondering why I completely ghosted React and Ta
 
 Study Lab is built from scratch as my personal execution engine. However, clean design deserves recognition.
 
-- The UI layout and visual architecture for the **Focus Timer** and **Mock-Test Analytics** modules are heavily inspired by [ChaosPrep](https://chaosprep.com/).
+- The UI layout and visual architecture for the **Focus Timer** modules are heavily inspired by [ChaosPrep](https://chaosprep.com/).
 - All the underlying logic (HTML, CSS, Vanilla JS) has been coded independently to match the local-first, zero-bloat philosophy of this project. A huge shoutout to the ChaosPrep team for establishing such intuitive design patterns in the ed-tech space.
 
 <br>
